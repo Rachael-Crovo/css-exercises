@@ -1,0 +1,21 @@
+.paragraph {
+    background-color: #f5b8ca;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.one {
+    font-size: 24px;
+}
+
+#two {
+    color: #051db5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+}
+
+#three {
+    background-color: #7CEBAE;
+    font-size: 24px;
+    font-weight: bold;
+
+}
